@@ -1,0 +1,12 @@
+.Rproj.user
+.Rhistory
+.RData
+rsconnect
+
+# build files
+_book
+_bookdown_files
+bookdown-demo.Rmd
+bookdown-demo.log
+bookdown-demo.tex
+packages.bib

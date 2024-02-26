@@ -1,0 +1,85 @@
+# Agenda
+
+Zoom link: https://us06web.zoom.us/j/85702851907?pwd=Udt2roZaEWgED88kw8cfAsKdaudxHD.1
+
+Sessions are from 9-12 and 1-4 mountain time (M-F). Please let us know (inbre@ncgr.org or during the workshop) if you have to miss part of a day.
+
+Zoom recordings: https://docs.google.com/document/d/1_4jZuVnxGiGkeiUgewhs3zkqOZEKd58-Cnij1PuiOT0/edit?usp=sharing
+
+**Please do not share the zoom recordings (see the Wrap Up chapter for more information).**
+
+_____
+
+**Monday**
+
+<span style="color: lightgray;">MORNING</span>\
+
+Introductions\
+<span style="color: forestgreen;">Linux</span> (Ethan)
+
+<span style="color: lightgray;">AFTERNOON</span>\
+
+<span style="color: forestgreen;">Linux</span> (cont) (Ethan)
+
+
+_____
+
+**Tuesday**
+
+<span style="color: lightgray;">MORNING</span>\
+
+<span style="color: darkblue;">Introduction to Pangenomics</span> (Alan)\
+
+<span style="color: lightgray;">AFTERNOON</span>\
+
+<span style="color: forestgreen;">Visualizing Pangenomes</span> (Alan)\
+
+<span style="color: forestgreen;">Reference Graphs with VG</span> (Alan)\
+
+_____
+
+**Wednesday**
+
+<span style="color: lightgray;">MORNING</span>\
+
+<span style="color: forestgreen;">Reference Graphs with VG (cont)</span> (Alan)\
+
+<span style="color: darkblue;">Draft Human Pangenome Reference</span> (Joann)\
+
+<span style="color: lightgray;">AFTERNOON</span>\
+
+<span style="color: forestgreen;">Incremental Graphs with Minigraph</span> (Joann)\
+
+_____
+
+**Thursday**
+
+<span style="color: lightgray;">MORNING</span>\
+
+<span style="color: forestgreen;">Incremental Graphs with Minigraph (cont)</span> (Joann)\
+
+<span style="color: lightgray;">AFTERNOON</span>\
+
+<span style="color: forestgreen;">Reference-Free Graphs with pggb</span> (Alan)\
+
+
+_____
+
+**Friday**
+
+<span style="color: lightgray;">MORNING</span>\
+
+<span style="color: forestgreen;">Cuttlefish</span> (Joann)\
+
+<span style="color: forestgreen;">Graph-specific Analyses</span> (Joann)\
+
+<span style="color: lightgray;">AFTERNOON</span>\
+
+<span style="color: forestgreen;">Review and Other Methods</span> (Alan)\
+
+Survey and Wrap-up (Adam)
+
+_____
+
+<span style="color: forestgreen;">Green</span> text indicates hands-on sessions. <span style="color: darkblue;">Blue</span> text indicates presentations. Please note that the timing might shift slightly.
+

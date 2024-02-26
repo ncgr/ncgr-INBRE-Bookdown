@@ -1,0 +1,80 @@
+# Prerequisites
+
+## Software
+
+You will need to install the following software on your computer.
+
++ **Zoom**
+    + https://zoom.us/download
+    + Install the correct version for your OS. Don't plan to use the web version, as this does not have enough features. 
++ **Terminal Emulator**
+    + Comes with Linux/Mac
+    + Windows: MobaXterm
++ **IGV** v2.17.1
+    + https://software.broadinstitute.org/software/igv/
+    + https://www.nature.com/articles/nbt.1754
++ **Bandage** v0.9.0 and **BLAST+** v2.15.0
+    + https://rrwick.github.io/Bandage/
+    + https://github.com/rrwick/Bandage/wiki/BLAST-searches
+    + https://academic.oup.com/bioinformatics/article/31/20/3350/196114
+    + *Mac Install*
+      + Go to https://github.com/rrwick/Bandage/releases
+      + Scroll down to assets
+      + Download the macOS zip file with aarch64 if you have Apple Silicon (M1 or M2 processor)
+        + you can check this under the apple menu: About this Mac
+      + Otherwise download the macOS zip file with x86-64
+      + Double-click to unzip
+      + If you have security warnings you can go to the apple menu: System Preferences: Privacy and Security. Choose "Open Anyway" (you might need to scroll down).
+      + If you get a "Bandage is damaged and can't be opened" message, it means your mac has put the file in quarantine. Open a terminal, cd to Downloads, then cd into the unzipped Bandage folder. Type the following then hit enter: xattr -cr Bandage.app
+      + If you are still having issues with the "damaged" error, you can download the x86-64 version instead
+      + To install **blast**, go to https://www.ncbi.nlm.nih.gov/books/NBK569861/, click on the ftp link, choose "LATEST", and download the one ending in dmg
+      + Double-click on it and follow the install instructions, using the default location where Bandage should be able to see it.
+    + *Windows Install*
+      + Go to https://github.com/rrwick/Bandage/releases
+      + Scroll down to assets
+      + Download Bandage_Windows_v0_8_0.zip
+      + Right-click (or ctrl-click) on the dowloaded file and choose "Extract All"
+      + Open up the unzipped Bandage folder and double-click on "Bandage.exe". If you get a secruity warning, choose "More Info" and "Run Anyway"
+      + To install **blast**, go to https://www.ncbi.nlm.nih.gov/books/NBK52637/ and follow the directions under "Steps" (you will download the file ending in .exe)
+      + If you get an error that makeblastdb can't be found, we need to fix your windows environment paths. In the windows search bar type "environment" and click on "Edit the system environment variables". Click on "New" and under Variable_name type "BLASTDB". Under Variable_value type the path to the blast db folder (for example: `C:\Users\jm\Downloads\blast-2.10.0+\db\`). Restart your computer.
+      
+<!--We can also help the students if they need this but it hasn't been an issue yet:
+Make sure the path to the blast bin file is in the path (for example: ""C:\Users\jm\Downloads\blast-2.10.0+\bin\"). If not edit the path.-->
+      
+<!--If the environment path doesn't work, we could try moving the blast folder into /usr/bin/ per the developer's suggestion; looks like you have to do that on the command line as I coudn't figure out how to get the finder window to go to /usr/bin/-->
+
+
+The following software is provided for you on the server.
+
++ **vg** v1.54.0
+    + https://github.com/vgteam/vg
+    + https://www.nature.com/articles/nbt.4227
++ **minigraph** v0.20
+    + https://github.com/lh3/minigraph
+    + https://link.springer.com/article/10.1186/s13059-020-02168-z
++ **cactus** v2.7.1
+    + https://github.com/ComparativeGenomicsToolkit/cactus
+    + https://www.nature.com/articles/s41586-020-2871-y
++ **pggb** v0.5.4
+    + https://github.com/pangenome/pggb
+    + https://www.biorxiv.org/content/10.1101/2023.04.05.535718v1
++ **gfatools** v0.5
+    + https://github.com/lh3/gfatools
++ **samtools** v1.19.2
+    + http://www.htslib.org/
++ **cuttlefish** v2.2.0
+    + https://github.com/COMBINE-lab/cuttlefish
+    + https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02743-6
+
+## Configuring Conda
+
+Some software on the server is installed via [Conda](https://docs.conda.io/en/latest/).
+To use Conda, you need to initialize your shell to work with Conda.
+To initialize your shell, run the following command after logging into the server:
+```
+conda init
+conda config --set auto_activate_base false
+```
+Then log out and back into the server.
+You should now be able to use Conda environments on the server.
+    

@@ -1,0 +1,26 @@
+---
+title: "Pangenomics Workshop NCGR"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+# url: your book url like https://bookdown.org/yihui/bookdown
+# cover-image: path to the social sharing image like images/cover.jpg
+description: |
+  This is the material for a Pangenomics course offered by NCGR in collaboration
+  with NM-INBRE.
+link-citations: yes
+github-repo: ncgr/Pangenomics-Bookdown
+---
+
+![Instructors](./Figures/JoannAlan.png){width=80%}
+
+# License and Copyright
+
+Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+https://creativecommons.org/licenses/by-nc-nd/4.0/
+
+© 2023 National Center for Genome Resources
+
+Please let us know who is using this document so we can account for them on our annual reports (thank you!) (you can email Ethan: eprice\@ncgr.org and cc inbre\@ncgr.org).
+
+This document is available at https://inbre.ncgr.org/pangenomics-workshop
