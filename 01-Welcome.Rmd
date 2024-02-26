@@ -4,12 +4,7 @@
 
 ![](./Figures/ncgr.png){width=80%}
 
-</center>
-
-
 ### Upcoming Workshop!{-}
-
-<center>
 
 Application: Fill out this online application here: 
 [Differential Expression Workshop Application](https://docs.google.com/forms/d/e/1FAIpQLScpoKxE0yAnCK3yOl5hBde7MtOWCOeXYxvjBfWyDcA9hHDGrw/viewform)
