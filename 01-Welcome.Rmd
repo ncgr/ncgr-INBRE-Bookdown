@@ -7,16 +7,16 @@
 </center>
 
 
-
 ### Upcoming Workshop!{-}
 
 Application: Fill out this online application here: 
-[Differential Expression Workshop Application](https://docs.google.com/forms/d/e/1FAIpQLScpoKxE0yAnCK3yOl5hBde7MtOWCOeXYxvjBfWyDcA9hHDGrw/viewform){-}
+[Differential Expression Workshop Application](https://docs.google.com/forms/d/e/1FAIpQLScpoKxE0yAnCK3yOl5hBde7MtOWCOeXYxvjBfWyDcA9hHDGrw/viewform)
 
 Space is limited!
 
 Application due by midnight March 11th, 2024
 
+[More Info about DE Workshop](https://inbre.ncgr.org/ncgr-INBRE-2024/differential-expression-workshop.html#differential-expression-workshop)
 
 ### When{-}
 
@@ -24,52 +24,6 @@ March 18 – 22, 2024 (5 days)
 
 9 am – 4 pm
 
-
-### Where{-}
-
-Online (by the National Center for Genome Resources (NCGR) Santa Fe, NM)
-
-
-### Objective{-}
-
-Come learn about differential gene expression analysis in this virtual workshop that will teach you with hands-on analysis from start to finish. This differential expression workshop covers basic linux skills, quality control, read alignment, abundance estimation, differential expression analysis, visualization, and pathway analysis. Note that this workshop covers differential expression of bulk tissues (we cover single cell expression in a separate workshop). 
-
-### Audience{-}
-
-
-This advanced workshop is targeted towards undergraduate or graduate students in biology or related fields.  
-
-
-### Workshop Rates{-}
-
-Applicant Category
-
-New Mexico Students & New Mexico Academic Researchers:
-Free
-
-All other students:
-$1,000
-
-IDeA state Researchers:
-$1,250
-
-Academic, Military, Government:
-$1,750
-
-Commercial:
-$2,000
-
-### Prerequisites{-}
-
-Unix, sequencing basics and other study guides will be provided upon acceptance.
-
-### What to expect upon acceptance{-}
-
-Email confirming acceptance into the internship program and further details.
-
-### Logistics{-}
-
-The workshop will be conducted virtually using primarily Zoom as our conferencing platform.  We will also use a variety of other software and tools, and you will log onto NCGR’s Unix analysis server for the command line tools.  After the workshop, students can use our analysis server for their research or education purposes for up to one year.
 
 ### Contact{-}
 
