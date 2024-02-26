@@ -1,0 +1,583 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{book}
+\usepackage{amsmath,amssymb}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math} % this also loads fontspec
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\ifPDFTeX\else
+  % xetex/luatex font selection
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\usepackage{longtable,booktabs,array}
+\usepackage{calc} % for calculating minipage widths
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\usepackage{graphicx}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{5}
+\usepackage{booktabs}
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+\usepackage[]{natbib}
+\bibliographystyle{plainnat}
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same}
+\hypersetup{
+  pdftitle={NCGR \& NM-INBRE},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+
+\title{NCGR \& NM-INBRE}
+\author{}
+\date{\vspace{-2.5em}}
+
+\begin{document}
+\maketitle
+
+{
+\setcounter{tocdepth}{1}
+\tableofcontents
+}
+\hypertarget{license-and-copyright}{%
+\chapter*{License and Copyright}\label{license-and-copyright}}
+\addcontentsline{toc}{chapter}{License and Copyright}
+
+Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+\url{https://creativecommons.org/licenses/by-nc-nd/4.0/}
+
+© 2023 National Center for Genome Resources
+
+\hypertarget{welcome}{%
+\chapter{Welcome!}\label{welcome}}
+
+\includegraphics[width=0.7\textwidth,height=\textheight]{./Figures/ncgr.png}
+
+Upcoming Workshop!
+
+Application: Fill out this online application here: DE Workshop Application
+
+Space is limited!
+
+Application due by midnight March 11th, 2024
+
+\hspace{0pt}
+
+When
+
+March 18 -- 22, 2024 (5 days)
+
+9 am -- 4 pm
+
+\hspace{0pt}
+
+Where
+
+Online (by the National Center for Genome Resources (NCGR) Santa Fe, NM)
+
+Objective
+
+Come learn about differential gene expression analysis in this virtual workshop that will teach you with hands-on analysis from start to finish. This differential expression workshop covers basic linux skills, quality control, read alignment, abundance estimation, differential expression analysis, visualization, and pathway analysis. Note that this workshop covers differential expression of bulk tissues (we cover single cell expression in a separate workshop).
+
+Audience
+
+This advanced workshop is targeted towards undergraduate or graduate students in biology or related fields.
+
+\hspace{0pt}
+
+Workshop Rates
+
+Applicant Category
+
+\begin{itemize}
+\tightlist
+\item
+  New Mexico Students \& New Mexico Academic Researchers
+  Free
+  All other students
+  \$1,000
+  IDeA state Researchers
+  \$1,250
+  \hspace{0pt}Academic, Military, Government
+  \$1,750
+  \hspace{0pt}\hspace{0pt}Commercial
+  \$2,000
+  Prerequisites
+\end{itemize}
+
+Unix, sequencing basics and other study guides will be provided upon acceptance.
+
+What to expect upon acceptance
+
+Email confirming acceptance into the internship program and further details.
+
+Logistics
+
+The workshop will be conducted virtually using primarily Zoom as our conferencing platform. We will also use a variety of other software and tools, and you will log onto NCGR's Unix analysis server for the command line tools. After the workshop, students can use our analysis server for their research or education purposes for up to one year.
+
+Contact
+
+Please contact Project Coordinator, Ethan Price with any additional questions you may have at \href{mailto:eprice@ncgr.org}{\nolinkurl{eprice@ncgr.org}} and we look forward to your participation!
+
+Sponsored by New Mexico IDeA Network for Biomedical Research Excellence (NM-INBRE).
+
+\hypertarget{ncgr-workshop-calendar}{%
+\chapter{NCGR WORKSHOP CALENDAR}\label{ncgr-workshop-calendar}}
+
+VIRTUAL BIOINFORMATICS WORKSHOPS:
+
+Prior Workshops:
+
+\hypertarget{about-us}{%
+\chapter{ABOUT US}\label{about-us}}
+
+NM-INBRE (New Mexico IDeA Networks of Biomedical Research Excellence):
+NM-INBRE Champions biomedical and community based research excellence in the state of New Mexico through the development of innovative, supportive and sustainable research environments for faculty and students, community engaging health initiatives, while building a network of lead scientists and educators at the state, regional and national level.
+
+Funded by the Institutional Development Award (IDeA) of the National Institutes of Health (NIH) \& National Institute of General Medical Sciences (NIGMS) Grant \# P20GM103451
+NCGR (National Center for Genome Research):
+
+Located in Santa Fe, New Mexico, the National Center for Genome Resources is a not-for-profit research institute that innovates, collaborates, and educates in the field of genomic data science. As leaders in DNA sequence analysis, we partner with government, industry, and academia to drive biological discovery in all kingdoms of life.
+NCGR operates NM-INBRE's Sequencing and Bioinformatics Core (SBC). Through this partnership we offer the NM-INBRE SBC Pilot Award, which is a funding opportunity primarily for New Mexico researchers through which NCGR can help you with your research.
+
+\hypertarget{sbc-pilot-award-rfp}{%
+\chapter{SBC PILOT AWARD RFP}\label{sbc-pilot-award-rfp}}
+
+The New Mexico IDeA Networks of Biomedical Research Excellence (NM-INBRE) Sequencing and Bioinformatics Core (SBC) invites you to apply for a pilot project award to drive your research, publications and grants!
+
+Award amount varies depending on various factors including your organization's affiliation with INBRE, RAIN or NM-INBRE. Award may require a co-contribution. Please reach out to \href{mailto:inbre@ncgr.org}{\nolinkurl{inbre@ncgr.org}} for more information or complete an application!
+
+\hypertarget{how-to-apply}{%
+\section{How to Apply:}\label{how-to-apply}}
+
+Submit proposal via this webform: NM-INBRE SBC Pilot Award Application\hspace{0pt}\hspace{0pt}
+
+NOTES:
+Proposals from `non' NM-INBRE investigators will require a co-contribution to foster state, regional and national INBRE collaborations. Funds spent towards sequencing through NCGR or our partner can count towards this co-contribution.\\
+Past winners may apply, but new applicants have priority if all other factors are equal.
+
+On any material presented or published based on this work, acknowledgement of:
+Funding provided by the NM-INBRE Sequencing and Bioinformatics Core (SBC) at NCGR through NIGMS IDeA-Award P20GM103451.
+
+NM-INBRE SBC staff supporting the project and inclusion as co-authors. We will review and write sections of posters and papers.
+
+Please let us know if you have any questions! Email us at \href{mailto:inbre@ncgr.org}{\nolinkurl{inbre@ncgr.org}}
+
+-Joann Mudge and Ethan Price
+
+\hypertarget{pangenomics-workshop}{%
+\chapter{Pangenomics Workshop}\label{pangenomics-workshop}}
+
+Application: Fill out this online application here: Pangenomics Workshop Application
+
+Space is limited!
+
+\hypertarget{when}{%
+\section{When}\label{when}}
+
+February 12-16, 2024
+
+\hypertarget{where}{%
+\section{Where}\label{where}}
+
+Online (by the National Center for Genome Resources (NCGR) Santa Fe, NM)
+
+\hypertarget{audience}{%
+\section{Audience}\label{audience}}
+
+This program is geared towards training biologists (undergraduates, graduates and researchers) with minimal or no bioinformatics experience. Space is limited.
+
+\hypertarget{topic-overview}{%
+\section{Topic Overview:}\label{topic-overview}}
+
+The proliferation of reference quality genome assemblies within any single species has necessitated the need for pangenome analyses. Such analyses remove reference-bias and elucidate biological signals at a more comprehensive population scale. In this workshop, students will learn what exactly a pangenome is, how to build a pangenome, and how to perform fundamental bioinformatic analyses on pangenomic data.
+
+\hypertarget{objective}{%
+\section{Objective:}\label{objective}}
+
+Students will learn to use the command-line interface to conduct graphical pangenome analyses. Specifically, students will learn to build pangenome graphs using vg, minigraph, and Cactus. They will learn to visualize these pangenomes using Bandage and IGV, and they will learn how to map reads and call variants on the graphs, comparing both run-time and mapping performance between methods. Additionally, students will be given an overview of other, interoperable tools to broaden their understanding of the rapidly moving pangenomics space.
+
+\hypertarget{workshop-rates}{%
+\section{Workshop Rates}\label{workshop-rates}}
+
+Applicant Category Cost
+
+New Mexico Students \& New Mexico Academic Researchers:
+Free
+
+All other students:
+\$1,000
+
+IDeA state Researchers:
+\$1,250
+
+Academic, Military, Government:
+\$1,750
+
+Commercial:
+\$2,250
+
+Application Due 11:59pm February 5th. Late applications will not be accepted. Selection Committee to select participants shortly after the deadline. If any questions arise while reviewing your application packet, we will contact you directly.
+
+\hypertarget{prerequisites}{%
+\section{Prerequisites}\label{prerequisites}}
+
+Unix, sequencing basics and other study guides will be provided upon acceptance.
+
+\hypertarget{what-to-expect-upon-acceptance}{%
+\section{What to expect upon acceptance}\label{what-to-expect-upon-acceptance}}
+
+Email confirming acceptance into the internship program and further details.
+
+\hypertarget{logistics}{%
+\section{Logistics}\label{logistics}}
+
+The workshop will be conducted virtually using primarily Zoom as our conferencing platform. We will also use a variety of other software and tools, and you will log onto NCGR's Unix analysis server for the command line tools. After the workshop, students can use our analysis server for their research or education purposes for up to one year.
+
+Contact
+
+Please contact Project Coordinator, Ethan Price, with any additional questions you may have at \href{mailto:eprice@ncgr.org}{\nolinkurl{eprice@ncgr.org}} and we look forward to your participation!
+
+Sponsored by New Mexico IDeA Network for Biomedical Research Excellence (NM-INBRE).
+
+\hypertarget{single-cell-rna-seq-workshop}{%
+\chapter{Single Cell RNA-seq Workshop}\label{single-cell-rna-seq-workshop}}
+
+Application: Fill out this online application here: Single Cell Workshop Application
+
+Space is limited!
+
+Application and letter of recommendation due by midnight October 30th, 2023
+
+\hypertarget{when-1}{%
+\section{When}\label{when-1}}
+
+Nov 6 -- 10, 2023 (5 days)
+
+9 am -- 4 pm
+
+\hypertarget{where-1}{%
+\section{Where}\label{where-1}}
+
+Online (by the National Center for Genome Resources (NCGR) Santa Fe, NM)
+
+\hypertarget{objective-1}{%
+\section{Objective}\label{objective-1}}
+
+Students will leverage their Unix and R command knowledge and become familiar with the SingleCellExperiment and Seurat R packages as well as an interactive Shiny web application to perform statistical metrics and data visualization for a variety of bioinformatic approaches to single cell sequencing analysis.
+
+\hypertarget{audience-1}{%
+\section{Audience}\label{audience-1}}
+
+This advanced workshop is targeted towards undergraduate or graduate students in biology or related fields.
+
+\hypertarget{workshop-rates-1}{%
+\section{Workshop Rates}\label{workshop-rates-1}}
+
+Applicant Category Cost
+
+New Mexico Students \& New Mexico Academic Researchers:
+Free
+
+All other students:
+\$1,000
+
+IDeA state Researchers:
+\$1,250
+
+Academic, Military, Government:
+\$1,750
+
+Commercial:
+\$2,250
+
+\hypertarget{prerequisites-1}{%
+\section{Prerequisites}\label{prerequisites-1}}
+
+Unix, sequencing basics and other study guides will be provided upon acceptance.
+
+What to expect upon acceptance
+
+Email confirming acceptance into the internship program and further details.
+
+\hypertarget{logistics-1}{%
+\section{Logistics}\label{logistics-1}}
+
+The workshop will be conducted virtually using primarily Zoom as our conferencing platform. We will also use a variety of other software and tools, and you will log onto NCGR's Unix analysis server for the command line tools. After the workshop, students can use our analysis server for their research or education purposes for up to one year.
+
+Contact
+
+Please contact Project Coordinator, Ethan Price with any additional questions you may have at \href{mailto:eprice@ncgr.org}{\nolinkurl{eprice@ncgr.org}} and we look forward to your participation!
+
+Sponsored by New Mexico IDeA Network for Biomedical Research Excellence (NM-INBRE).
+
+\hypertarget{de-workshop}{%
+\chapter{DE Workshop}\label{de-workshop}}
+
+Application: Fill out this online application here: DE Workshop Application
+
+Space is limited!
+
+Application due by midnight March 11th, 2024
+
+\hypertarget{when-2}{%
+\section{When}\label{when-2}}
+
+March 18 -- 22, 2024 (5 days)
+
+9 am -- 4 pm
+
+\hypertarget{where-2}{%
+\section{Where}\label{where-2}}
+
+Online (by the National Center for Genome Resources (NCGR) Santa Fe, NM)
+
+\hypertarget{objective-2}{%
+\section{Objective}\label{objective-2}}
+
+Come learn about differential gene expression analysis in this virtual workshop that will teach you with hands-on analysis from start to finish. This differential expression workshop covers basic linux skills, quality control, read alignment, abundance estimation, differential expression analysis, visualization, and pathway analysis. Note that this workshop covers differential expression of bulk tissues (we cover single cell expression in a separate workshop).
+
+\hypertarget{audience-2}{%
+\section{Audience}\label{audience-2}}
+
+This advanced workshop is targeted towards undergraduate or graduate students in biology or related fields.
+
+\hypertarget{workshop-rates-2}{%
+\section{Workshop Rates}\label{workshop-rates-2}}
+
+Applicant Category Cost
+
+New Mexico Students \& New Mexico Academic Researchers:
+Free
+
+All other students:
+\$1,000
+
+IDeA state Researchers:
+\$1,250
+
+Academic, Military, Government:
+\$1,750
+
+Commercial:
+\$2,250
+
+\hypertarget{prerequisites-2}{%
+\section{Prerequisites}\label{prerequisites-2}}
+
+Unix, sequencing basics and other study guides will be provided upon acceptance.
+
+What to expect upon acceptance
+
+Email confirming acceptance into the internship program and further details.
+
+\hypertarget{logistics-2}{%
+\section{Logistics}\label{logistics-2}}
+
+The workshop will be conducted virtually using primarily Zoom as our conferencing platform. We will also use a variety of other software and tools, and you will log onto NCGR's Unix analysis server for the command line tools. After the workshop, students can use our analysis server for their research or education purposes for up to one year.
+
+Contact
+
+Please contact Project Coordinator, Ethan Price with any additional questions you may have at \href{mailto:eprice@ncgr.org}{\nolinkurl{eprice@ncgr.org}} and we look forward to your participation!
+
+Sponsored by New Mexico IDeA Network for Biomedical Research Excellence (NM-INBRE).
+
+\hypertarget{metagenomics-workshop}{%
+\chapter{Metagenomics Workshop}\label{metagenomics-workshop}}
+
+Application: Fill out this online application here: Metagenomics Workshop Application
+
+Space is limited!
+
+Application and letter of recommendation due by midnight October 10th, 2023
+
+\hypertarget{when-3}{%
+\section{When}\label{when-3}}
+
+October 16 -- 20, 2023 (5 days)
+
+9 am -- 4 pm
+
+\hypertarget{where-3}{%
+\section{Where}\label{where-3}}
+
+Online (by the National Center for Genome Resources (NCGR) Santa Fe, NM)
+
+\hypertarget{objective-3}{%
+\section{Objective}\label{objective-3}}
+
+Learn how to use the UNIX command line, analytical workflows and public tools to independently analyze sequencing data plus how to visualize and render data using graphing tools.
+
+The Metagenomics workshop covers 16S community profiling and whole genome meta-genomics/transcriptomics analysis.
+
+\hypertarget{audience-3}{%
+\section{Audience}\label{audience-3}}
+
+This workshop is targeted towards undergraduate or graduate students in biology or related fields.
+
+\hypertarget{workshop-rates-3}{%
+\section{Workshop Rates}\label{workshop-rates-3}}
+
+Applicant Category Cost
+
+New Mexico Students \& New Mexico Academic Researchers:
+Free
+
+All other students:
+\$1,000
+
+IDeA state Researchers:
+\$1,250
+
+Academic, Military, Government:
+\$1,750
+
+Commercial:
+\$2,250
+
+\hypertarget{prerequisites-3}{%
+\section{Prerequisites}\label{prerequisites-3}}
+
+Unix, sequencing basics and other study guides will be provided upon acceptance.
+
+What to expect upon acceptance
+
+Email confirming acceptance into the internship program and further details.
+
+\hypertarget{logistics-3}{%
+\section{Logistics}\label{logistics-3}}
+
+The workshop will be conducted virtually using primarily Zoom as our conferencing platform. We will also use a variety of other software and tools, and you will log onto NCGR's Unix analysis server for the command line tools. After the workshop, students can use our analysis server for their research or education purposes for up to one year.
+
+Contact
+
+Please contact Project Coordinator, Ethan Price, with any additional questions you may have at \href{mailto:eprice@ncgr.org}{\nolinkurl{eprice@ncgr.org}} and we look forward to your participation!
+
+Sponsored by New Mexico IDeA Network for Biomedical Research Excellence (NM-INBRE).
+
+\hypertarget{citing-nm-inbre}{%
+\chapter{Citing NM INBRE}\label{citing-nm-inbre}}
+
+If you received funding from NM-INBRE that contributed to your research or career development, you must cite NM-INBRE support on all publications, presentations, press releases, requests, requests for proposals, bid invitations, or any other documents or applications related to your funded research. Also, please be sure to cite NM-INBRE if your work benefited from the use of NM-INBRE equipment or an NM-INBRE sponsored student worked in your lab.
+For instructions on how to cite NM-INBRE and where to find our logos, please visit \url{https://nminbre.nmsu.edu/cite-us/cite-us.html}
+
+\hypertarget{workshop-info}{%
+\chapter{Workshop Info}\label{workshop-info}}
+
+\hypertarget{acknowledgements}{%
+\section{Acknowledgements}\label{acknowledgements}}
+
+This publication was supported by an Institutional Development Award (IDeA) from the National Institute of General Medical Sciences of the National Institutes of Health under grant number P20GM103451. Additional support came from National Science Foundation Award numbers 1759522 (Collaborative Research: Innovation: Pioneering New Approaches to Explore Pangenomic Space at Scale) and 2105391 (CRII: III: Toward the Compression of Pangenomic DNA Sequence Data Using Context-Free Grammars).
+
+Pangenomic content development by Alan Cleary and Joann Mudge. Special thanks to Adam Gomez for initial development of the bookdown version.
+
+Linux content was developed by Adam Gomez, Ethan Price, Evan Lavelle, Kathy Myers, and Forrest Black.
+
+\includegraphics[width=0.5\textwidth,height=\textheight]{./Figures/INBRE_Logo_Grad_transparent-2019.png}
+
+\includegraphics[width=0.5\textwidth,height=\textheight]{./Figures/ncgr.png}
+
+\hypertarget{license-and-copyright-1}{%
+\section{License and Copyright}\label{license-and-copyright-1}}
+
+Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+\url{https://creativecommons.org/licenses/by-nc-nd/4.0/}
+
+© 2023 National Center for Genome Resources
+
+\hypertarget{survey}{%
+\section{Survey}\label{survey}}
+
+Please complete both surveys using the links below.
+
+\href{https://docs.google.com/forms/d/e/1FAIpQLScjtEvK-ywP9DEbTNsIcIn4YMe9evXvhmp-NVzn-t4MSakXig/viewform?usp=sf_link}{Workshop Survey (anonymous)}
+
+\href{https://docs.google.com/forms/d/e/1FAIpQLSfGZwX2BL_ZyGgmvh4v41Q_886y-OiTESTbpvzoyR0J3BxC5Q/viewform?usp=sf_link}{Server/Certificate survey (super quick)}
+
+\hypertarget{questions}{%
+\section{Questions}\label{questions}}
+
+If you have bioinformatics or technical questions, please email inbre@ncgr.org, which will send emails to everyone on the inbre team. If you have questions on passwords/password resets, payments, receipts, etc, please email Ethan Price at eprice@ncgr.org and cc inbre@ncgr.org. Occasionally, we change servers or change how to log in so if you are having issues, please contact us.
+
+\hypertarget{server-access-and-acknowledgements}{%
+\section{Server access and acknowledgements}\label{server-access-and-acknowledgements}}
+
+For those of you who requested continued access to our server, we will extend your account for 1 year. If you need it longer, please email us and we'll be happy to work with you. We ask that you don't run really large jobs while we are running workshops to avoid slowing things down. So, if you have a really large job to run, please check in with us so we can let you know when workshops will be happening.
+
+Please note, if you use our servers to do analysis that you publish, you need to acknowledge the National Center for Genome Resources (NCGR) and the INBRE grant in your acknowledgements. Instructions for the latter can be found here: \url{https://nminbre.nmsu.edu/cite-us/cite-us.html}. This is really important for our annual reports so thank you in advance!
+
+Additionally, in order to share your publications in our annual reporting, and to comply with NIH guidelines for open access, please include a PMCID with your publication. Instructions: \href{https://publicaccess.nih.gov/include-pmcid-citations.htm}{Include PMCID in Citations}.
+
+Additional details from \url{https://nminbre.nmsu.edu/cite-us/cite-us.html}:
+
+{If you received funding from NM-INBRE that contributed to your research or career development, you must cite NM-INBRE support on all publications, presentations, press releases, requests, requests for proposals, bid invitations, or any other documents or applications related to your funded research. Also, please be sure to cite NM-INBRE if your work benefited from the use of NM-INBRE equipment or an NM-INBRE sponsored student worked in your lab.}
+
+{\textbf{NIH requires the following format for citing INBRE support, to be used for presentations, publications, and other acknowledgements:}}
+
+{\emph{Research reported in this publication was supported by an Institutional Development Award (IDeA) from the National Institute of General Medical Sciences of the National Institutes of Health under grant number P20GM103451.}}
+
+\hypertarget{bookdown-document}{%
+\section{Bookdown document}\label{bookdown-document}}
+
+You can share these with other individuals in your lab or fellow students/colleagues but please let us know who is using it so we can account for them on our annual reports (thank you!) (you can email Ethan: eprice@ncgr.org and cc inbre@ncgr.org).
+
+\hypertarget{zoom-recordings}{%
+\section{Zoom recordings}\label{zoom-recordings}}
+
+Please do not share the zoom recordings as we don't have permissions from everyone who participated. Feel free to use them for your own use.
+You can find links to the zoom recordings at: \url{https://docs.google.com/document/d/1OGTa0Tef6deK3POaazKUSpVYFNXd_xsYN8kavctlVmM/edit?usp=sharing}
+
+The bookdown and zoom recordings will be available for at least 3 months. Please plan to download what you need if you want access longer.
+
+  \bibliography{book.bib,packages.bib}
+
+\end{document}

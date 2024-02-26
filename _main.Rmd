@@ -1,3 +1,34 @@
+--- 
+title: "NCGR & NM-INBRE"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+# url: your book url like https://bookdown.org/yihui/bookdown
+# cover-image: path to the social sharing image like images/cover.jpg
+description: |
+ This is the material offered by NCGR in collaboration
+  with NM-INBRE.
+link-citations: yes
+github-repo: ncgr/INBRE-Bookdown
+---
+
+# License and Copyright{-}
+
+Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+https://creativecommons.org/licenses/by-nc-nd/4.0/
+
+© 2023 National Center for Genome Resources
+
+
+```{r include=FALSE}
+# automatically create a bib database for R packages
+knitr::write_bib(c(
+  .packages(), 'bookdown', 'knitr', 'rmarkdown'
+), 'packages.bib')
+```
+
+<!--chapter:end:index.Rmd-->
+
 # Welcome! 
 
 
@@ -74,11 +105,18 @@ Please contact Project Coordinator, Ethan Price with any additional questions yo
 
 Sponsored by New Mexico IDeA Network for Biomedical Research Excellence (NM-INBRE).
 
+
+<!--chapter:end:01-Welcome.Rmd-->
+
 # NCGR WORKSHOP CALENDAR
 
 VIRTUAL BIOINFORMATICS WORKSHOPS:
 
 Prior Workshops:
+
+
+
+<!--chapter:end:02-WorkshopCalendar.Rmd-->
 
 # ABOUT US
 
@@ -116,6 +154,10 @@ Please let us know if you have any questions! Email us at inbre@ncgr.org
 
 -Joann Mudge and Ethan Price 
 
+
+
+<!--chapter:end:03-AboutUs.Rmd-->
+
 # Pangenomics Workshop
 
 Application: Fill out this online application here: Pangenomics Workshop Application
@@ -127,7 +169,6 @@ Space is limited!
 
 February 12-16, 2024
 
-​
 
 ## Where
 
@@ -148,7 +189,6 @@ The proliferation of reference quality genome assemblies within any single speci
 
 Students will learn to use the command-line interface to conduct graphical pangenome analyses. Specifically, students will learn to build pangenome graphs using vg, minigraph, and Cactus. They will learn to visualize these pangenomes using Bandage and IGV, and they will learn how to map reads and call variants on the graphs, comparing both run-time and mapping performance between methods. Additionally, students will be given an overview of other, interoperable tools to broaden their understanding of the rapidly moving pangenomics space.
 
-​​
 
 ## Workshop Rates
 
@@ -189,6 +229,11 @@ Please contact Project Coordinator, Ethan Price, with any additional questions y
 
 Sponsored by New Mexico IDeA Network for Biomedical Research Excellence (NM-INBRE).
 
+
+
+<!--chapter:end:04-PangenomicsWS.Rmd-->
+
+
 # Single Cell RNA-seq Workshop
 
 Application: Fill out this online application here: Single Cell Workshop Application
@@ -197,7 +242,6 @@ Space is limited!
 
 Application and letter of recommendation due by midnight October 30th, 2023
 
-​
 
 ## When
 
@@ -205,7 +249,6 @@ Nov 6 – 10, 2023 (5 days)
 
 9 am – 4 pm
 
-​
 
 ## Where
 
@@ -222,7 +265,6 @@ Students will leverage their Unix and R command knowledge and become familiar wi
 This advanced workshop is targeted towards undergraduate or graduate students in biology or related fields.  
 
 
-​
 
 ## Workshop Rates
 
@@ -269,7 +311,6 @@ Space is limited!
 
 Application due by midnight March 11th, 2024
 
-​
 
 ## When
 
@@ -277,7 +318,6 @@ March 18 – 22, 2024 (5 days)
 
 9 am – 4 pm
 
-​
 
 ## Where
 
@@ -293,8 +333,6 @@ Come learn about differential gene expression analysis in this virtual workshop 
 
 This advanced workshop is targeted towards undergraduate or graduate students in biology or related fields.  
 
-
-​
 
 ## Workshop Rates
 
@@ -334,6 +372,9 @@ Please contact Project Coordinator, Ethan Price with any additional questions yo
 Sponsored by New Mexico IDeA Network for Biomedical Research Excellence (NM-INBRE).
 
 
+<!--chapter:end:05-SingleCellWS.Rmd-->
+
+
 # Metagenomics Workshop
 
 Application: Fill out this online application here: Metagenomics Workshop Application
@@ -342,7 +383,6 @@ Space is limited!
 
 Application and letter of recommendation due by midnight October 10th, 2023
 
-​
 
 ## When
 
@@ -350,7 +390,6 @@ October 16 – 20, 2023 (5 days)
 
 9 am – 4 pm
 
-​
 
 ## Where
 
@@ -369,8 +408,6 @@ The Metagenomics workshop covers 16S community profiling and whole genome meta-g
 
 This workshop is targeted towards undergraduate or graduate students in biology or related fields.  
 
-
-​
 
 ## Workshop Rates
 
@@ -413,6 +450,10 @@ Sponsored by New Mexico IDeA Network for Biomedical Research Excellence (NM-INBR
 
 If you received funding from NM-INBRE that contributed to your research or career development, you must cite NM-INBRE support on all publications, presentations, press releases, requests, requests for proposals, bid invitations, or any other documents or applications related to your funded research. Also, please be sure to cite NM-INBRE if your work benefited from the use of NM-INBRE equipment or an NM-INBRE sponsored student worked in your lab. 
 For instructions on how to cite NM-INBRE and where to find our logos, please visit https://nminbre.nmsu.edu/cite-us/cite-us.html
+
+
+
+<!--chapter:end:06-MetagenomicsWS.Rmd-->
 
 # Workshop Info
 
@@ -490,3 +531,11 @@ Please do not share the zoom recordings as we don't have permissions from everyo
 You can find links to the zoom recordings at: https://docs.google.com/document/d/1OGTa0Tef6deK3POaazKUSpVYFNXd_xsYN8kavctlVmM/edit?usp=sharing
 
 The bookdown and zoom recordings will be available for at least 3 months. Please plan to download what you need if you want access longer.
+
+
+`r if (knitr::is_html_output()) '
+# References {-}
+'`
+
+<!--chapter:end:ImportantWSinfo.Rmd-->
+

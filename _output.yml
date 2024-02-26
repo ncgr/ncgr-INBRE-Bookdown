@@ -3,11 +3,10 @@ bookdown::gitbook:
   config:
     toc:
       before: |
-        <li><a href="./">Pangenomics Workshop NCGR</a></li>
+        <li><a href="./">A Minimal Book Example</a></li>
       after: |
-        <li><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="blank">&#169; National Center for Genome Resources</a></li>
         <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
-    edit: https://github.com/ncgr/Pangenomics-Bookdown/edit/main/%s
+    edit: https://github.com/USERNAME/REPO/edit/BRANCH/%s
     download: ["pdf", "epub"]
 bookdown::pdf_book:
   includes:
@@ -16,4 +15,3 @@ bookdown::pdf_book:
   citation_package: natbib
   keep_tex: yes
 bookdown::epub_book: default
-bookdown::bs4_book: default

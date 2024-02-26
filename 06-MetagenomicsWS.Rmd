@@ -1,0 +1,78 @@
+
+# Metagenomics Workshop
+
+Application: Fill out this online application here: Metagenomics Workshop Application
+
+Space is limited!
+
+Application and letter of recommendation due by midnight October 10th, 2023
+
+
+## When
+
+October 16 – 20, 2023 (5 days)
+
+9 am – 4 pm
+
+
+## Where
+
+Online (by the National Center for Genome Resources (NCGR) Santa Fe, NM)
+
+
+## Objective
+
+Learn how to use the UNIX command line, analytical workflows and public tools to independently analyze sequencing data plus how to visualize and render data using graphing tools.
+
+The Metagenomics workshop covers 16S community profiling and whole genome meta-genomics/transcriptomics analysis.
+
+
+## Audience
+
+
+This workshop is targeted towards undergraduate or graduate students in biology or related fields.  
+
+
+## Workshop Rates
+
+Applicant Category Cost
+
+New Mexico Students & New Mexico Academic Researchers:
+Free
+
+All other students:
+$1,000
+
+IDeA state Researchers:
+$1,250
+
+Academic, Military, Government:
+$1,750
+
+Commercial:
+$2,250
+
+## Prerequisites
+
+Unix, sequencing basics and other study guides will be provided upon acceptance.
+
+What to expect upon acceptance
+
+Email confirming acceptance into the internship program and further details.
+
+## Logistics
+
+The workshop will be conducted virtually using primarily Zoom as our conferencing platform.  We will also use a variety of other software and tools, and you will log onto NCGR’s Unix analysis server for the command line tools.  After the workshop, students can use our analysis server for their research or education purposes for up to one year.
+
+Contact
+
+Please contact Project Coordinator, Ethan Price, with any additional questions you may have at eprice@ncgr.org and we look forward to your participation!
+
+Sponsored by New Mexico IDeA Network for Biomedical Research Excellence (NM-INBRE).
+
+# Citing NM INBRE
+
+If you received funding from NM-INBRE that contributed to your research or career development, you must cite NM-INBRE support on all publications, presentations, press releases, requests, requests for proposals, bid invitations, or any other documents or applications related to your funded research. Also, please be sure to cite NM-INBRE if your work benefited from the use of NM-INBRE equipment or an NM-INBRE sponsored student worked in your lab. 
+For instructions on how to cite NM-INBRE and where to find our logos, please visit https://nminbre.nmsu.edu/cite-us/cite-us.html
+
+
