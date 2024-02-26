@@ -1,0 +1,24 @@
+# Server access and acknowledgements{-}
+
+For those of you who requested continued access to our server, we will extend your account for 1 year. If you need it longer, please email us and we'll be happy to work with you. We ask that you don't run really large jobs while we are running workshops to avoid slowing things down. So, if you have a really large job to run, please check in with us so we can let you know when workshops will be happening.
+
+Please note, if you use our servers to do analysis that you publish, you need to acknowledge the National Center for Genome Resources (NCGR) and the INBRE grant in your acknowledgements. Instructions for the latter can be found here: https://nminbre.nmsu.edu/cite-us/cite-us.html. 
+
+This is really important for our annual reports so thank you in advance!
+
+Additionally, in order to share your publications in our annual reporting, and to comply with NIH guidelines for open access, please include a PMCID with your publication.  Instructions: [Include PMCID in Citations](https://publicaccess.nih.gov/include-pmcid-citations.htm).
+
+
+Additional details from https://nminbre.nmsu.edu/cite-us/cite-us.html:
+
+<p style="margin-left: 25px;">
+<span style="color: tan;">If you received funding from NM-INBRE that contributed to your research or career development, you must cite NM-INBRE support on all publications, presentations, press releases, requests, requests for proposals, bid invitations, or any other documents or applications related to your funded research. Also, please be sure to cite NM-INBRE if your work benefited from the use of NM-INBRE equipment or an NM-INBRE sponsored student worked in your lab.</span>
+</p>
+
+<p style="margin-left: 25px;">
+<span style="color: tan;">**NIH requires the following format for citing INBRE support, to be used for presentations, publications, and other acknowledgements:**</span>
+</p>
+
+<p style="margin-left: 25px;">
+<span style="color: tan;">*Research reported in this publication was supported by an Institutional Development Award (IDeA) from the National Institute of General Medical Sciences of the National Institutes of Health under grant number P20GM103451.*</span>
+</p>

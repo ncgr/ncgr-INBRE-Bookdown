@@ -12,12 +12,22 @@ link-citations: yes
 github-repo: ncgr/INBRE-Bookdown
 ---
 
+
 # License and Copyright{-}
 
 Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
 https://creativecommons.org/licenses/by-nc-nd/4.0/
 
 © 2023 National Center for Genome Resources
+
+<br>
+
+![](./Figures/INBRE_Logo_Grad_transparent-2019.png){width=20%} 
+
+<br>
+
+![](./Figures/ncgr.png){width=30%} 
+
 
 
 ```{r include=FALSE}

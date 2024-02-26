@@ -1,0 +1,14 @@
+# Acknowledgements{-}
+
+This publication was supported by an Institutional Development Award (**IDeA**) from the National Institute of General Medical Sciences of the **National Institutes of Health** under grant number **P20GM103451**. Additional support came from **National Science Foundation** Award numbers **1759522** (Collaborative Research: Innovation: Pioneering New Approaches to Explore Pangenomic Space at Scale) and **2105391** (CRII: III: Toward the Compression of Pangenomic DNA Sequence Data Using Context-Free Grammars).
+
+<br>
+
+<center>
+![](./Figures/INBRE_Logo_Grad_transparent-2019.png){width=40%} 
+
+<br>
+
+![](./Figures/ncgr.png){width=50%} 
+</center>
+

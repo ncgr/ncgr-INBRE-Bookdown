@@ -1,0 +1,6 @@
+
+# Bookdown document{-}
+
+You can share these with other individuals in your lab or fellow students/colleagues but please let us know who is using it so we can account for them on our annual reports (thank you!) (you can email Ethan: eprice\@ncgr.org and cc inbre\@ncgr.org).
+
+The bookdown and zoom recordings will be available for at least 3 months. Please plan to download what you need if you want access longer.
