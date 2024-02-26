@@ -1,36 +1,36 @@
-# Pangenomics Workshop
+# Pangenomics Workshop{-}
 
 Application: Fill out this online application here: Pangenomics Workshop Application
 
 Space is limited!
 
 
-## When
+## When{-}
 
 February 12-16, 2024
 
 
-## Where
+## Where{-}
 
 Online (by the National Center for Genome Resources (NCGR) Santa Fe, NM)
 
 
-## Audience
+## Audience{-}
 
 This program is geared towards training biologists (undergraduates, graduates and researchers) with minimal or no bioinformatics experience. Space is limited.
 
 
-## Topic Overview:
+## Topic Overview{-}
 
 The proliferation of reference quality genome assemblies within any single species has necessitated the need for pangenome analyses. Such analyses remove reference-bias and elucidate biological signals at a more comprehensive population scale. In this workshop, students will learn what exactly a pangenome is, how to build a pangenome, and how to perform fundamental bioinformatic analyses on pangenomic data.
 
 
-## Objective:
+## Objective{-}
 
 Students will learn to use the command-line interface to conduct graphical pangenome analyses. Specifically, students will learn to build pangenome graphs using vg, minigraph, and Cactus. They will learn to visualize these pangenomes using Bandage and IGV, and they will learn how to map reads and call variants on the graphs, comparing both run-time and mapping performance between methods. Additionally, students will be given an overview of other, interoperable tools to broaden their understanding of the rapidly moving pangenomics space.
 
 
-## Workshop Rates
+## Workshop Rates{-}
 
 Applicant Category Cost
 
@@ -51,15 +51,15 @@ $2,250
 
 Application Due 11:59pm February 5th.  Late applications will not be accepted.  Selection Committee to select participants shortly after the deadline. If any questions arise while reviewing your application packet, we will contact you directly.
 
-## Prerequisites
+## Prerequisites{-}
 
 Unix, sequencing basics and other study guides will be provided upon acceptance.
 
-## What to expect upon acceptance
+## What to expect upon acceptance{-}
 
 Email confirming acceptance into the internship program and further details.
 
-## Logistics
+## Logistics{-}
 
 The workshop will be conducted virtually using primarily Zoom as our conferencing platform.  We will also use a variety of other software and tools, and you will log onto NCGR’s Unix analysis server for the command line tools.  After the workshop, students can use our analysis server for their research or education purposes for up to one year.
 
