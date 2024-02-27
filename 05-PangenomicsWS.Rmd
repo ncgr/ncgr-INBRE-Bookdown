@@ -29,28 +29,6 @@ The proliferation of reference quality genome assemblies within any single speci
 
 Students will learn to use the command-line interface to conduct graphical pangenome analyses. Specifically, students will learn to build pangenome graphs using vg, minigraph, and Cactus. They will learn to visualize these pangenomes using Bandage and IGV, and they will learn how to map reads and call variants on the graphs, comparing both run-time and mapping performance between methods. Additionally, students will be given an overview of other, interoperable tools to broaden their understanding of the rapidly moving pangenomics space.
 
-
-## Workshop Rates{-}
-
-Applicant Category Cost
-
-New Mexico Students & New Mexico Academic Researchers:
-Free
-
-All other students:
-$1,000
-
-IDeA state Researchers:
-$1,250
-
-Academic, Military, Government:
-$1,750
-
-Commercial:
-$2,250
-
-Application Due 11:59pm February 5th.  Late applications will not be accepted.  Selection Committee to select participants shortly after the deadline. If any questions arise while reviewing your application packet, we will contact you directly.
-
 ## Prerequisites{-}
 
 Unix, sequencing basics and other study guides will be provided upon acceptance.
@@ -62,6 +40,8 @@ Email confirming acceptance into the internship program and further details.
 ## Logistics{-}
 
 The workshop will be conducted virtually using primarily Zoom as our conferencing platform.  We will also use a variety of other software and tools, and you will log onto NCGR’s Unix analysis server for the command line tools.  After the workshop, students can use our analysis server for their research or education purposes for up to one year.
+
+Late applications will not be accepted.  Selection Committee to select participants shortly after the deadline. If any questions arise while reviewing your application packet, we will contact you directly.
 
 Contact
 

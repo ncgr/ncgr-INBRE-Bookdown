@@ -1,4 +1,4 @@
-# Server access and acknowledgements{-}
+# Server Access & Acknowledgement{-}
 
 For those of you who requested continued access to our server, we will extend your account for 1 year. If you need it longer, please email us and we'll be happy to work with you. We ask that you don't run really large jobs while we are running workshops to avoid slowing things down. So, if you have a really large job to run, please check in with us so we can let you know when workshops will be happening.
 

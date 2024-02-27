@@ -33,25 +33,6 @@ The Metagenomics workshop covers 16S community profiling and whole genome meta-g
 This workshop is targeted towards undergraduate or graduate students in biology or related fields.  
 
 
-## Workshop Rates{-}
-
-Applicant Category Cost
-
-New Mexico Students & New Mexico Academic Researchers:
-Free
-
-All other students:
-$1,000
-
-IDeA state Researchers:
-$1,250
-
-Academic, Military, Government:
-$1,750
-
-Commercial:
-$2,250
-
 ## Prerequisites{-}
 
 Unix, sequencing basics and other study guides will be provided upon acceptance.

@@ -26,29 +26,7 @@ Students will leverage their Unix and R command knowledge and become familiar wi
 
 ## Audience{-}
 
-
 This advanced workshop is targeted towards undergraduate or graduate students in biology or related fields.  
-
-
-
-## Workshop Rates{-}
-
-Applicant Category Cost
-
-New Mexico Students & New Mexico Academic Researchers:
-Free
-
-All other students:
-$1,000
-
-IDeA state Researchers:
-$1,250
-
-Academic, Military, Government:
-$1,750
-
-Commercial:
-$2,250
 
 ## Prerequisites{-}
 
@@ -61,6 +39,8 @@ Email confirming acceptance into the internship program and further details.
 ## Logistics{-}
 
 The workshop will be conducted virtually using primarily Zoom as our conferencing platform.  We will also use a variety of other software and tools, and you will log onto NCGR’s Unix analysis server for the command line tools.  After the workshop, students can use our analysis server for their research or education purposes for up to one year.
+
+Late applications will not be accepted.  Selection Committee to select participants shortly after the deadline. If any questions arise while reviewing your application packet, we will contact you directly.
 
 Contact
 
