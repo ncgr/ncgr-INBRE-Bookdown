@@ -1,21 +1,24 @@
 
-# Welcome{-}
-<center>
+# Upcoming NCGR Workshops{-}
 
-![](./Figures/ncgr.png){width=80%}
+**Differential Expression Workshop**
 
-### Upcoming Workshop!{-}
+- Fill out this online application here: 
+[**Differential Expression Workshop Application**](https://docs.google.com/forms/d/e/1FAIpQLScpoKxE0yAnCK3yOl5hBde7MtOWCOeXYxvjBfWyDcA9hHDGrw/viewform)
 
-Application: Fill out this online application here: 
-[Differential Expression Workshop Application](https://docs.google.com/forms/d/e/1FAIpQLScpoKxE0yAnCK3yOl5hBde7MtOWCOeXYxvjBfWyDcA9hHDGrw/viewform)
+
+- Application due by midnight March 11th, 2024
+
+- More Info about [**DE Workshops here**](https://inbre.ncgr.org/ncgr-INBRE-2024/differential-expression-workshop.html#differential-expression-workshop)
+
+- Workshop [**Rates here**](https://inbre.ncgr.org/ncgr-INBRE-2024/workshop-rates.html#workshop-rates)
+
 
 Space is limited!
 
-Application due by midnight March 11th, 2024
+<br>
 
-[More Info about DE Workshop](https://inbre.ncgr.org/ncgr-INBRE-2024/differential-expression-workshop.html#differential-expression-workshop)
-
-</center>
+![](./Figures/ncgr.png){width=20%}
 
 ### When{-}
 

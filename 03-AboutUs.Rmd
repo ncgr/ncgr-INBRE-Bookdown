@@ -2,11 +2,17 @@
 
 **NM-INBRE (New Mexico IDeA Networks of Biomedical Research Excellence):**
 
+![](./Figures/INBRE_Logo_Grad_transparent-2019.png){width=20%}
+
 NM-INBRE Champions biomedical and community based research excellence in the state of New Mexico through the development of innovative, supportive and sustainable research environments for faculty and students, community engaging health initiatives, while building a network of lead scientists and educators at the state, regional and national level.
  
 Funded by the Institutional Development Award (**IDeA**) of the National Institutes of Health (**NIH**) & National Institute of General Medical Sciences (**NIGMS**)  Grant # P20GM103451 
 
+<br>
+
 **NCGR (National Center for Genome Research):** 
+
+![](./Figures/ncgr.png){width=30%}
 
 Located in Santa Fe, New Mexico, the National Center for Genome Resources is a not-for-profit research institute that innovates, collaborates, and educates in the field of genomic data science. As leaders in DNA sequence analysis, we partner with government, industry, and academia to drive biological discovery in all kingdoms of life. 
 
