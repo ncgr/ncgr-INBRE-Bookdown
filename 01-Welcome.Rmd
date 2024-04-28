@@ -1,15 +1,13 @@
 
 # Upcoming NCGR Workshops{-}
 
-**Differential Expression Workshop**
+**Metagenomics Workshop**
 
 - Fill out this online application here: 
-[**Differential Expression Workshop Application**](https://docs.google.com/forms/d/e/1FAIpQLScpoKxE0yAnCK3yOl5hBde7MtOWCOeXYxvjBfWyDcA9hHDGrw/viewform)
+[**Metagenomics Workshop Application**](https://docs.google.com/forms/d/e/1FAIpQLScYyqAZaiSDdA9LwS-uEvGyiiqc13e9xzCZRX3y68kSMhbb2g/viewform)
 
 
-- Application due by midnight March 11th, 2024
-
-- More Info about [**DE Workshops here**](https://inbre.ncgr.org/ncgr-INBRE-2024/differential-expression-workshop.html#differential-expression-workshop)
+- Application due by Midnight August 1st, 2024
 
 - Workshop [**Rates here**](https://inbre.ncgr.org/ncgr-INBRE-2024/workshop-rates.html#workshop-rates)
 
@@ -22,7 +20,7 @@ Space is limited!
 
 ### When{-}
 
-March 18 – 22, 2024 (5 days)
+August 5 – 9, 2024 (5 days)
 
 9 am – 4 pm
 
