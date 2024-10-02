@@ -3,6 +3,6 @@
 
 If you have **bioinformatics or technical questions**, please email inbre@ncgr.org, which will send emails to everyone on the inbre team. 
 
-If you have questions on **passwords/password resets, payments, receipts, etc,** please email Ethan Price at eprice@ncgr.org and cc inbre@ncgr.org. 
+If you have questions on **passwords/password resets, payments, receipts, etc,** please email Ethan Price at inbre@ncgr.org and cc inbre@ncgr.org. 
 
 Occasionally, we change servers or change how to log in so if you are having issues, please contact us.
