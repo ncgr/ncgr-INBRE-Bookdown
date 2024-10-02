@@ -1,36 +1,36 @@
-
 # Metagenomics Workshop{-}
 
-Application: Fill out this online application here: [Metagenomics Workshop Application](https://docs.google.com/forms/d/e/1FAIpQLScYyqAZaiSDdA9LwS-uEvGyiiqc13e9xzCZRX3y68kSMhbb2g/viewform)
+Application: Fill out this online application here: [Metagenomics Workshop Application](https://forms.gle/Ai2psNtZJRvxygZZ9)
 
 Space is limited!
 
-Application and letter of recommendation due by midnight August 1st, 2024
+Application due by midnight October 21st, 2024
 
 
 ## When{-}
 
-August 5 – 9, 2024 (5 days)
+**October 28 – November 01, 2023** (5 days)
 
 9 am – 4 pm
 
+- Including a 1 hour break for lunch
 
 ## Where{-}
 
-Online (by the National Center for Genome Resources (NCGR) Santa Fe, NM)
+Virtual (via the National Center for Genome Resources (NCGR) Santa Fe, NM)
 
 
 ## Objective{-}
 
 Learn how to use the UNIX command line, analytical workflows and public tools to independently analyze sequencing data plus how to visualize and render data using graphing tools.
 
-The Metagenomics workshop covers 16S community profiling and whole genome meta-genomics/transcriptomics analysis.
+This workshop covers analyses of 16s and whole genome shotgun metagenomic sequence data, including community analysis and assembly.
 
 
 ## Audience{-}
 
 
-This workshop is targeted towards undergraduate or graduate students in biology or related fields.  
+This workshop is targeted towards undergraduate or graduate students, and researchers in biology or related fields.  
 
 
 ## Prerequisites{-}
@@ -48,7 +48,7 @@ The workshop will be conducted virtually using primarily Zoom as our conferencin
 Late applications will not be accepted.  Selection Committee to select participants shortly after the deadline. If any questions arise while reviewing your application packet, we will contact you directly.
 Contact
 
-Please contact Project Coordinator, Ethan Price, with any additional questions you may have at eprice@ncgr.org and we look forward to your participation!
+Please contact Project Coordinator, Ethan Price, with any additional questions you may have at inbre@ncgr.org and we look forward to your participation!
 
 Sponsored by New Mexico IDeA Network for Biomedical Research Excellence (NM-INBRE).
 
