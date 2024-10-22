@@ -1,16 +1,16 @@
 # Differential Expression Workshop{-}
 
 Application: Fill out this online application here: 
-[Differential Expression Workshop Application](https://docs.google.com/forms/d/e/1FAIpQLScpoKxE0yAnCK3yOl5hBde7MtOWCOeXYxvjBfWyDcA9hHDGrw/viewform)
+[Differential Expression Workshop Application](https://forms.gle/aXG2StdRnSfKAcfA6)
 
 Space is limited!
 
-Application due by midnight March 11th, 2024
+Application due by midnight November 11th, 2024
 
 
 ## When{-}
 
-March 18 – 22, 2024 (5 days)
+November 18 – 22, 2024 (5 days)
 
 9 am – 4 pm
 
@@ -40,7 +40,7 @@ Email confirming acceptance into the internship program and further details.
 
 The workshop will be conducted virtually using primarily Zoom as our conferencing platform.  We will also use a variety of other software and tools, and you will log onto NCGR’s Unix analysis server for the command line tools.  After the workshop, students can use our analysis server for their research or education purposes for up to one year.
 
-Late applications will not be accepted.  Selection Committee to select participants shortly after the deadline. If any questions arise while reviewing your application packet, we will contact you directly.
+Selection Committee to select participants shortly after the deadline. If any questions arise while reviewing your application packet, we will contact you directly.
 
 Contact
 
