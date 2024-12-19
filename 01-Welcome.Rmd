@@ -1,44 +1,48 @@
 
 # Upcoming NCGR Workshops{-}
 
-### Differential Expression Workshop{-}
+### Pangenomics Workshop{-}
 
 - Fill out this online application here: 
-[**DE Workshop Application**](https://forms.gle/aXG2StdRnSfKAcfA6)
+[**Pangenomics Workshop Application**](https://forms.gle/49UbSZFk6AxcGWcH8)
 
 
-- Application **due** by midnight **November 11th, 2024**
+- Application **due** by midnight **February 17, 2025**
 
 - Space is limited!
 
 ### When{-}
 
-**November 18 – November 22, 2024** (5 days)
+**March 03-07, 2025** (5 days)
 
 9 am – 4 pm
 
 
-- More Info about [**Differential Expression Workshops here**](https://inbre.ncgr.org/ncgr-workshops/differential-expression-workshop.html#differential-expression-workshop)
+- More Info about [**Pangenomics Workshops here**](https://inbre.ncgr.org/ncgr-INBRE-Bookdown/pangenomics-workshop.html#pangenomics-workshop)  
+
+### How much does it cost?{-}
+
+[**Click here**](https://inbre.ncgr.org/ncgr-workshops/workshop-rates.html) to get workshop rates.  
 
 
-### Metagenomics Workshop{-}
+### Single Cell Workshop{-}
 
 - Fill out this online application here: 
-[**Metagenomics Workshop Application**](https://forms.gle/Ai2psNtZJRvxygZZ9)
+[**Single Cell Workshop Application**](https://forms.gle/Ai2psNtZJRvxygZZ9)
 
 
-- Application **due** by midnight **October 28th, 2024**
+- Application **due** by midnight **Feb/March TBD, 2025**
 
 - Space is limited!
 
 ### When{-}
 
-**November 04 – November 08, 2024** (5 days)
+**Feb/March TBD, 2025** (5 days)
 
 9 am – 4 pm
 
 
-- More Info about [**Metagenomics Workshops here**](https://inbre.ncgr.org/ncgr-workshops/metagenomics-workshop-1.html)
+- More Info about [**Single Cell Workshops here**](https://inbre.ncgr.org/ncgr-INBRE-Bookdown/single-cell-rna-seq-workshop.html#single-cell-rna-seq-workshop)
 
 ### How much does it cost?{-}
 
