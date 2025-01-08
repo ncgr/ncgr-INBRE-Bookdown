@@ -1,7 +1,7 @@
 
 # Upcoming NCGR Workshops{-}
 
-### Pangenomics Workshop{-}
+### Pangenomics Workshop (some bioinformatics experience){-}
 
 - Fill out this online application here: 
 [**Pangenomics Workshop Application**](https://forms.gle/49UbSZFk6AxcGWcH8)
@@ -11,16 +11,16 @@
 
 - Space is limited!
 
-### When{-}
+#### When{-}
 
 **March 03-07, 2025** (5 days)
 
 9 am – 4 pm
 
 
-- More Info about [**Pangenomics Workshops here**](https://inbre.ncgr.org/ncgr-workshops/pangenomics-workshop-1.html#pangenomics-workshop)  
+- More Info about [**Pangenomics Workshops here**](https://inbre.ncgr.org/ncgr-workshops/pangenomics-workshop.html#pangenomics-workshop)  
 
-### How much does it cost?{-}
+#### How much does it cost?{-}
 
 [**Click here**](https://inbre.ncgr.org/ncgr-workshops/workshop-rates.html) to get workshop rates.  
 
@@ -35,16 +35,16 @@
 
 - Space is limited!
 
-### When{-}
+#### When{-}
 
 **Feb/March TBD, 2025** (5 days)
 
 9 am – 4 pm
 
 
-- More Info about [**Single Cell Workshops here**](https://inbre.ncgr.org/ncgr-INBRE-Bookdown/single-cell-rna-seq-workshop.html#single-cell-rna-seq-workshop)
+- More Info about [**Single Cell Workshops here**](https://inbre.ncgr.org/ncgr-workshops/single-cell-rna-seq-workshop.html#single-cell-rna-seq-workshop)
 
-### How much does it cost?{-}
+#### How much does it cost?{-}
 
 [**Click here**](https://inbre.ncgr.org/ncgr-workshops/workshop-rates.html) to get workshop rates.
 
