@@ -42,44 +42,48 @@ knitr::write_bib(c(
 
 # Upcoming NCGR Workshops{-}
 
-### Differential Expression Workshop{-}
+### Pangenomics Workshop{-}
 
 - Fill out this online application here: 
-[**DE Workshop Application**](https://forms.gle/aXG2StdRnSfKAcfA6)
+[**Pangenomics Workshop Application**](https://forms.gle/49UbSZFk6AxcGWcH8)
 
 
-- Application **due** by midnight **November 11th, 2024**
+- Application **due** by midnight **February 17, 2025**
 
 - Space is limited!
 
 ### When{-}
 
-**November 18 – November 22, 2024** (5 days)
+**March 03-07, 2025** (5 days)
 
 9 am – 4 pm
 
 
-- More Info about [**Differential Expression Workshops here**](https://inbre.ncgr.org/ncgr-workshops/differential-expression-workshop.html#differential-expression-workshop)
+- More Info about [**Pangenomics Workshops here**](https://inbre.ncgr.org/ncgr-INBRE-Bookdown/pangenomics-workshop.html#pangenomics-workshop)  
+
+### How much does it cost?{-}
+
+[**Click here**](https://inbre.ncgr.org/ncgr-workshops/workshop-rates.html) to get workshop rates.  
 
 
-### Metagenomics Workshop{-}
+### Single Cell Workshop{-}
 
 - Fill out this online application here: 
-[**Metagenomics Workshop Application**](https://forms.gle/Ai2psNtZJRvxygZZ9)
+[**Single Cell Workshop Application**](https://forms.gle/Ai2psNtZJRvxygZZ9)
 
 
-- Application **due** by midnight **October 28th, 2024**
+- Application **due** by midnight **Feb/March TBD, 2025**
 
 - Space is limited!
 
 ### When{-}
 
-**November 04 – November 08, 2024** (5 days)
+**Feb/March TBD, 2025** (5 days)
 
 9 am – 4 pm
 
 
-- More Info about [**Metagenomics Workshops here**](https://inbre.ncgr.org/ncgr-workshops/metagenomics-workshop-1.html)
+- More Info about [**Single Cell Workshops here**](https://inbre.ncgr.org/ncgr-INBRE-Bookdown/single-cell-rna-seq-workshop.html#single-cell-rna-seq-workshop)
 
 ### How much does it cost?{-}
 
@@ -101,9 +105,13 @@ Sponsored by New Mexico IDeA Network for Biomedical Research Excellence (NM-INBR
 
 # Workshop Calendar{-}
 
-## November 18th - November 22nd, 2024 | Differential Expression Workshop!{-}
+#### March 03-07, 2025 | Pangenomics Workshop{-}
 
-## November 4th - November 8th, 2024 | Metagenomics Workshop!{-}
+#### March 17-21, 2025 | Single Cell Workshop{-}
+
+#### November 18th - November 22nd, 2024 | Differential Expression Workshop!{-}
+
+#### November 4th - November 8th, 2024 | Metagenomics Workshop!{-}
 
 
 <<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=America%2FDenver&bgcolor=%23ffffff&showPrint=0&showTabs=0&src=Y18yZTE1NDQ2MGI1ZDQ5ZmQ3YTAxNGJhNzg0MzAxY2MyZjgyZWQ2NmQzMGFjNDljMjQzZWUzZTQwNmQ1ZDIyNzkyQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&color=%23EF6C00&color=%230B8043" style="border:solid 1px #777" width="700" height="600" frameborder="0" scrolling="no"></iframe>>
@@ -139,7 +147,7 @@ NCGR operates NM-INBRE's Sequencing and Bioinformatics Core (SBC).  Through this
 
 # Workshop Rates{-} 
 
-![](./Figures/RateSchol.png){width=90%}
+![](./Figures/WorkshopRates.png){width=90%}
 
 #### * New Mexico Scholarship Link:{-} 
 [**Scholarship link - Click here**](https://forms.gle/MkgHEQGCBMkcVYBX8) to apply for a **New Mexico** scholarship!
@@ -163,7 +171,7 @@ Space is limited!
 
 ## When{-}
 
-February 12-16, 2024
+March 03-07, 2025
 
 
 ## Where{-}
@@ -173,7 +181,7 @@ Virtual (by the National Center for Genome Resources (NCGR) Santa Fe, NM)
 
 ## Audience{-}
 
-This program is geared towards training biologists (undergraduates, graduates and researchers) with minimal or no bioinformatics experience. Space is limited.
+This program is geared towards training biologists (undergraduates, graduates and researchers) with some bioinformatics experience.
 
 
 ## Topic Overview{-}
@@ -183,25 +191,26 @@ The proliferation of reference quality genome assemblies within any single speci
 
 ## Objective{-}
 
-Students will learn to use the command-line interface to conduct graphical pangenome analyses. Specifically, students will learn to build pangenome graphs using vg, minigraph, and Cactus. They will learn to visualize these pangenomes using Bandage and IGV, and they will learn how to map reads and call variants on the graphs, comparing both run-time and mapping performance between methods. Additionally, students will be given an overview of other, interoperable tools to broaden their understanding of the rapidly moving pangenomics space.
+Students will learn to use the command-line interface to conduct graphical pangenome analyses. Specifically, students will learn to build pangenome graphs using vg, minigraph, and PGGB. They will learn to visualize these pangenomes using Bandage and IGV, and they will learn how to map reads and call variants on the graphs, comparing both run-time and mapping performance between methods. Additionally, students will be given an overview of other, interoperable tools to broaden their understanding of the rapidly moving pangenomics space.
+
 
 ## Prerequisites{-}
 
-Unix, sequencing basics and other study guides will be provided upon acceptance.
+Reference material will be provided upon acceptance.
 
 ## What to expect upon acceptance{-}
 
-Email confirming acceptance into the internship program and further details.
+Upon acceptance you will receive an email confirming acceptance into the internship program and further details.
 
 ## Logistics{-}
 
-The workshop will be conducted virtually using primarily Zoom as our conferencing platform.  We will also use a variety of other software and tools, and you will log onto NCGR’s Unix analysis server for the command line tools.  After the workshop, students can use our analysis server for their research or education purposes for up to one year.
+The workshop will be conducted virtually using primarily Zoom as our conferencing platform. We will also use a variety of other software and tools, and you will log onto NCGR’s Unix analysis server for the command line tools. After the workshop, students can use our analysis server for their research or education purposes for up to one year. Late applications will not be accepted. A Selection Committee will select participants shortly after the deadline. If any questions arise while reviewing your application packet, we will contact you directly.   
 
-Late applications will not be accepted.  Selection Committee to select participants shortly after the deadline. If any questions arise while reviewing your application packet, we will contact you directly.
 
-Contact
+Contact  
 
-Please contact Project Coordinator, Ethan Price, with any additional questions you may have at inbre@ncgr.org and we look forward to your participation!
+Please contact Project Coordinator, Ethan Price, with any additional questions you may have at eprice@ncgr.org. We look forward to your participation!  
+
 
 Sponsored by New Mexico IDeA Network for Biomedical Research Excellence (NM-INBRE).
 
