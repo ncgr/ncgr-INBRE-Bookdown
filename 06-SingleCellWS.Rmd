@@ -1,7 +1,7 @@
 
 # Single Cell RNA-seq Workshop{-}
 
-Application: Fill out this online application here: [Single Cell Workshop Application](https://forms.gle/xcfJYaHSDr4SQYUw9)
+Application: Fill out the online application here: [Single Cell Workshop Application](https://forms.gle/xcfJYaHSDr4SQYUw9)
 
 Space is limited!
 
