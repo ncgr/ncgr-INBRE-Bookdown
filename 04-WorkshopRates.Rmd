@@ -1,6 +1,7 @@
-# Workshop Rates{-} 
+# How much do the workshops cost?{-} 
 
-![](./Figures/WorkshopRates.png){width=90%}
+![](./Figures/Cost.png){width=90%}
+
 
 #### * New Mexico Scholarship Link:{-} 
 [**Scholarship link - Click here**](https://forms.gle/MkgHEQGCBMkcVYBX8) to apply for a **New Mexico** scholarship!
