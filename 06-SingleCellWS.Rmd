@@ -20,6 +20,9 @@ October 27 – 31, 2025 (5 days)
 
 Virtual (by the National Center for Genome Resources (NCGR) Santa Fe, NM)
 
+## Topic Overview{-}
+
+A typical RNA sequencing experiment captures transcriptional changes at the bulk tissue level representing a heterogenous mixture of cells and providing an aggregated expression result. By performing RNA sequencing on isolated single cells, one can pinpoint cellular expression and consider transcriptome sequences from individual cells to investigate, for example, cell lineage relationships, variability between cells and how a cell functions in its local environment. In this workshop, you will import single cell data, and cover topics such as normalization, quality control, dimensionality reduction, visualization, and data interpretation.
 
 ## Objective{-}
 

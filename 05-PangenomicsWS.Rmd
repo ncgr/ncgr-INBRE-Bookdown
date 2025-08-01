@@ -23,7 +23,7 @@ This program is geared towards training biologists (undergraduates, graduates an
 
 ## Topic Overview{-}
 
-The proliferation of reference quality genome assemblies within any single species has necessitated the need for pangenome analyses. Such analyses remove reference-bias and elucidate biological signals at a more comprehensive population scale. In this workshop, students will learn what exactly a pangenome is, how to build a pangenome, and how to perform fundamental bioinformatic analyses on pangenomic data.
+Pangenomic analyses capitalize on the increasing availability of multiple, high quality, conspecific genome assemblies and the genetic variation that they contain. Pangenome approaches remove reference-bias and elucidate biological signals at a more comprehensive population or species scale. In this workshop, you will learn what pangenomes are, how to build a pangenome, and how to perform fundamental bioinformatic analyses to identify biological insights.
 
 
 ## Objective{-}

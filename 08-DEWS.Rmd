@@ -21,6 +21,8 @@ October 20-24, 2025 (5 days)
 
 Virtual (by the National Center for Genome Resources (NCGR) Santa Fe, NM)
 
+## Topic Overview{-}
+Analysis of gene expression changes in response to different treatments or conditions can yield important biological insights, including elucidating abiotic and biotic stress responses, uncovering disease and resistance mechanisms, and highlighting developmental changes. In this workshop you will learn how to perform differential gene expression, visualization, and pathway analysis. In addition, you will learn how to perform coexpression analysis and identify genes driving expression shifts.
 
 ## Objective{-}
 

@@ -20,6 +20,9 @@ Application due by July 28, 2025
 
 Virtual (via the National Center for Genome Resources (NCGR) Santa Fe, NM)
 
+## Topic Overview{-}
+
+Metagenomics approaches sequence and analyze communities of organisms, allowing the identification of community members and/or the genes and metabolic pathways that they harbor. In this workshop, you will learn how to analyze both 16S amplicon and whole genome shotgun sequence data, including filtering host reads (if appropriate), performing community analysis and creating metagenome-assembled genomes (MAGs), calculate measures of diversity, and visualize results. You will also learn how to perform metatranscriptomic analyses that enable you to investigate genes that are being actively expressed in the community.
 
 ## Objective{-}
 
