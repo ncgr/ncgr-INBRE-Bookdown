@@ -1,7 +1,7 @@
 
 # Upcoming NCGR Workshops{-}
 
-### Metagenomics Workshop{-}
+<!-- ### Metagenomics Workshop{-}
 
 - Fill out the online application here: 
 [**Metagenomics Workshop Application**](https://forms.gle/FPYecmR5g41njK8TA)
@@ -23,11 +23,10 @@
 #### How much does it cost?{-}
 
 [**Click here**](https://inbre.ncgr.org/ncgr-workshops/how-much-do-the-workshops-cost.html#how-much-do-the-workshops-cost) to get workshop rates.  
+-->
 
 
-<br>
-
-![](./Figures/ncgr.png){width=50%}
+![](./Figures/ncgr.png){width=25%} 
 
 ### Differential Gene Expression Workshop{-}
 
@@ -54,7 +53,7 @@
 
 <br>
 
-![](./Figures/ncgr.png){width=50%}
+![](./Figures/ncgr.png){width=25%}
 
 
 ### Single Cell Workshop{-}
@@ -82,7 +81,7 @@
 
 <br>
 
-![](./Figures/ncgr.png){width=50%}
+![](./Figures/ncgr.png){width=25%}
 
 
 
