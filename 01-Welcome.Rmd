@@ -28,33 +28,6 @@
 
 ![](./Figures/ncgr.png){width=25%} 
 
-### Pangenomics Workshop{-}
-
-- Fill out this online application here: 
-[**Pangenomics Workshop Application**](https://forms.gle/VfKu2sWezVQBPYE58)
-
-
-- Application **due** by midnight **October February 23, 2026**
-
-- Space is limited!
-
-#### When{-}
-
-**March 02-06, 2026** (5 days)
-
-9 am – 4 pm
-
-
-- More Info about [**Pangenomics Workshops here**](https://inbre.ncgr.org/ncgr-workshops/pangenomics-workshop.html)
-
-#### How much does it cost?{-}
-
-[**Click here**](https://inbre.ncgr.org/ncgr-workshops/how-much-do-the-workshops-cost.html#how-much-do-the-workshops-cost) to get workshop rates.
-
-<br>
-
-![](./Figures/ncgr.png){width=25%}
-
 ### Differential Expression Workshop{-}
 
 - Fill out this online application here: 
@@ -73,6 +46,33 @@
 
 
 - More Info about [**Differential Expression Workshops here**](https://inbre.ncgr.org/ncgr-workshops/single-cell-rna-seq-workshop.html#single-cell-rna-seq-workshop)
+
+#### How much does it cost?{-}
+
+[**Click here**](https://inbre.ncgr.org/ncgr-workshops/how-much-do-the-workshops-cost.html#how-much-do-the-workshops-cost) to get workshop rates.
+
+<br>
+
+![](./Figures/ncgr.png){width=25%}
+
+### Pangenomics Workshop{-}
+
+- Fill out this online application here: 
+[**Pangenomics Workshop Application**](https://forms.gle/VfKu2sWezVQBPYE58)
+
+
+- Application **due** by midnight **March 16, 2026**
+
+- Space is limited!
+
+#### When{-}
+
+**March 23-27, 2026** (5 days)
+
+9 am – 4 pm
+
+
+- More Info about [**Pangenomics Workshops here**](https://inbre.ncgr.org/ncgr-workshops/pangenomics-workshop.html)
 
 #### How much does it cost?{-}
 
