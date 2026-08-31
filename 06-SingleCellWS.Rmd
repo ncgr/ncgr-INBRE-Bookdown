@@ -4,11 +4,11 @@
 Application: Fill out the online application here: [Single Cell Workshop Application](https://forms.gle/xcfJYaHSDr4SQYUw9)
 
 
-Application due by midnight TBD
+Application due by midnight October 12, 2026
 
 ## When{-}
 
-September 28 - October 2, 2026
+October 26 - 30, 2026
 
 9 am – 4 pm  
 
@@ -22,11 +22,12 @@ Virtual (by the National Center for Genome Resources (NCGR) Santa Fe, NM)
 
 ## Topic Overview{-}
 
-A typical RNA sequencing experiment captures transcriptional changes at the bulk tissue level representing a heterogenous mixture of cells and providing an aggregated expression result. By performing RNA sequencing on isolated single cells, one can pinpoint cellular expression and consider transcriptome sequences from individual cells to investigate, for example, cell lineage relationships, variability between cells and how a cell functions in its local environment. In this workshop, you will import single cell data, and cover topics such as normalization, quality control, dimensionality reduction, visualization, and data interpretation.
+Typical transcriptomic experiments such as RNA-seq experiments capture transcriptional changes at the bulk tissue level representing a heterogenous mixture of cells and providing an aggregated expression result. By performing RNA sequencing on isolated single cells, one can pinpoint cellular expression and consider transcriptome sequences from individual cells to investigate, for example, cell lineage relationships, variability between cells and how a cell functions in its local environment. In this workshop, you will import single cell RNA-seq data (scRNA-seq), and cover topics such as normalization, quality control, dimensionality reduction, visualization, and data interpretation.
+
 
 ## Objective{-}
 
-Students will leverage their Linux and R command knowledge to become familiar with the SingleCellExperiment, Seurat R packages, Loupe Browser, and an interactive Shiny web application to perform statistical metrics and data visualization for a variety of bioinformatic approaches to single cell sequencing analysis. 
+Students will learn Linux and R commands and leverage these skills to analyze, visualize, and interpret scRNA-seq data through a variety of bioinformatic approaches.
 
 ## Audience{-}
 

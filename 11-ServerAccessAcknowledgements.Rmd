@@ -9,7 +9,7 @@ This is really important for our annual reports so thank you in advance!
 Additionally, in order to share your publications in our annual reporting, and to comply with NIH guidelines for open access, please include a PMCID with your publication.  Instructions: [Include PMCID in Citations](https://publicaccess.nih.gov/include-pmcid-citations.htm).
 
 
-Additional details from https://nminbre.nmsu.edu/cite-us/cite-us.html:
+Additional details from https://nminbre.org/cite-us/:
 
 <p style="margin-left: 25px;">
 <span style="color: tan;">If you received funding from NM-INBRE that contributed to your research or career development, you must cite NM-INBRE support on all publications, presentations, press releases, requests, requests for proposals, bid invitations, or any other documents or applications related to your funded research. Also, please be sure to cite NM-INBRE if your work benefited from the use of NM-INBRE equipment or an NM-INBRE sponsored student worked in your lab.</span>

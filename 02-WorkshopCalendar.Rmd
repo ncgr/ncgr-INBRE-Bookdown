@@ -1,8 +1,9 @@
 # Workshop Calendar{-}
 
-#### September 28-30, 2026 | Single Cell Transcriptomics {-}
 
-#### Differential Gene Expression Workshop TBD {-}
+#### Differential Gene Expression Workshop October 19 - 23, 2026 {-}
+
+#### Single Cell Transcriptomics October 26-30, 2026{-}
 
 #### Metagenomics Workshop TBD {-}
 
